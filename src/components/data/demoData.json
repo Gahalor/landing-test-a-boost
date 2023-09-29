@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "challenge": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "type": "Row",
+    "level": 1,
+    "bonus": 5,
+    "solution": [ 5, 3, 1 ]
+  },
+  {
+    "key": 1,
+    "title": "Opción 1",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit ipsum dolor.",
+    "list": 0
+  },
+  {
+    "key": 2,
+    "title": "Opción 2",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit ipsum dolor.",
+    "list": 0
+  },
+  {
+    "key": 3,
+    "title": "Opción 3",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit ipsum dolor.",
+    "list": 0
+  },
+  {
+    "key": 4,
+    "title": "Opción 4",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit ipsum dolor.",
+    "list": 0
+  },
+  {
+    "key": 5,
+    "title": "Opción 5",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit ipsum dolor.",
+    "list": 0
+  }
+]
